@@ -120,6 +120,16 @@ runs/batch_<YYYYMMDD_HHMMSS>/
 
 For repeated `target+pdbid` pairs, receptor preparation and docking box detection are performed once and reused. Each CSV row still gets its own docking directory.
 
+## Example Figures
+
+Overall docking pose:
+
+![Overall docking pose](images/figure_a_overall_pose.png)
+
+Binding site close-up:
+
+![Binding site close-up](images/figure_b_binding_site.png)
+
 ## Output Files
 
 Single-run and per-row batch outputs include:

@@ -118,6 +118,16 @@ runs/batch_<YYYYMMDD_HHMMSS>/
 
 如果 CSV 中多行使用相同的 `target+pdbid`，受体准备和 docking box 判断只执行一次并复用。每一行小分子仍然会有独立的 docking 目录。
 
+## 示例图片
+
+整体对接姿态：
+
+![Overall docking pose](images/figure_a_overall_pose.png)
+
+结合位点局部视图：
+
+![Binding site close-up](images/figure_b_binding_site.png)
+
 ## 输出文件
 
 单次运行和批量模式中的每一行会输出：
