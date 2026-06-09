@@ -122,11 +122,11 @@ runs/batch_<YYYYMMDD_HHMMSS>/
 
 整体对接姿态：
 
-![Overall docking pose](images/figure_a_overall_pose.png)
+<img src="images/figure_a_overall_pose.png" alt="Overall docking pose" width="700">
 
 结合位点局部视图：
 
-![Binding site close-up](images/figure_b_binding_site.png)
+<img src="images/figure_b_binding_site.png" alt="Binding site close-up" width="700">
 
 ## 输出文件
 

@@ -124,11 +124,11 @@ For repeated `target+pdbid` pairs, receptor preparation and docking box detectio
 
 Overall docking pose:
 
-![Overall docking pose](images/figure_a_overall_pose.png)
+<img src="images/figure_a_overall_pose.png" alt="Overall docking pose" width="700">
 
 Binding site close-up:
 
-![Binding site close-up](images/figure_b_binding_site.png)
+<img src="images/figure_b_binding_site.png" alt="Binding site close-up" width="700">
 
 ## Output Files
 
