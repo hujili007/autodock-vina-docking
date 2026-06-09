@@ -120,13 +120,9 @@ runs/batch_<YYYYMMDD_HHMMSS>/
 
 ## 示例图片
 
-整体对接姿态：
-
-<img src="images/figure_a_overall_pose.png" alt="Overall docking pose" width="700">
-
-结合位点局部视图：
-
-<img src="images/figure_b_binding_site.png" alt="Binding site close-up" width="700">
+| Overall docking pose | Binding site close-up |
+| --- | --- |
+| <img src="images/figure_a_overall_pose.png" alt="Overall docking pose" width="420"> | <img src="images/figure_b_binding_site.png" alt="Binding site close-up" width="420"> |
 
 ## 输出文件
 
